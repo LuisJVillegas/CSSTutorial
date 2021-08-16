@@ -37,7 +37,19 @@ section {
 }
 
 #menu {
+  color: #e6891e;
+  background-color: bisque;
   text-align: center;
+  display: block;
+  width: 600px;
+  margin: 0 auto 20px;
+}
+
+#pizza_slice {
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 details {
